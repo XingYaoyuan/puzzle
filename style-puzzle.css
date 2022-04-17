@@ -1,0 +1,19 @@
+body{
+  background-color:#BDD5FA
+}
+
+#style1{text-align: center;}
+h2#style1{background-color: lightyellow}
+
+#style2{text-align: center;}
+
+div.bt{
+  text-align: center;
+}
+
+div.bt button{
+  background: #white;
+  border-radius: 10px;
+  font-size: 10px;
+  color:lightblue;
+}

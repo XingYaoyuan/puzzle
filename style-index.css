@@ -1,0 +1,16 @@
+#tst1{text-align: center;}
+h1#tst1 {color: lightblue;background-color: lightyellow}
+
+#demo{text-align: center;}
+button{text-align: center;}
+
+div.bt{
+  text-align: center;
+}
+
+div.bt button{
+  background: lightyellow;
+  border-radius: 20px;
+  font-size: 20px;
+  color:lightblue;
+}
